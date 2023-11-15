@@ -52,4 +52,4 @@ alias gpum='git pull origin master'
 
 
 #virtual host
-alias zshvh='bash $ZSH/custom/plugins/zsh-ra/vh.sh'
+alias zshvh='sudo bash $ZSH/custom/plugins/zsh-ra/vh.sh'
